@@ -108,6 +108,7 @@ figure{
 
 img.illustration{
     margin-bottom: 2.4rem;
+    border-radius: 1rem;
     width: 100%;
     align-self: center;
 }
