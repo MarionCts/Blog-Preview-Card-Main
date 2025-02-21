@@ -1,54 +1,32 @@
-# Frontend Mentor - Blog preview card solution
-
-![Design preview for the Blog preview card coding challenge](./preview.jpg)
-
-
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# Frontend Mentor - Blog Preview Card 
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-
+  - [Live preview](#live-preview)
+  - [Solution retrospective](#solution-retrospective)
 
 ## Overview
 
 ### The challenge
 
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
+The challenge was to experiment with HTML and CSS fundamentals, like HTML structure and the box model.
 
 ### Screenshot
 
 ![](./screenshot.jpg)
 
+### Live preview
 
-### Links
-
-- Solution URL: [Solution](https://github.com/MarionCts/Blog-Preview-Card-Main)
 - Live Site URL: [Live preview](https://marioncts.github.io/Blog-Preview-Card-Main/)
 
-## My process
+### Solution retrospective
 
-### Built with
+For this challenge, I once again focused on a pixel-perfect approach to match the original design as closely as possible. The challenge didn't require a dynamic transition for the hover effect, but I decided to add a basic one anyway, as I found the default HTML hover effect too abrupt. I aim to improve my CSS transitions in future projects.
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+I wanted to use rem instead of px for the text and make the process easier. So, I set the font size of the HTML element to 10px, allowing me to work with rem more intuitively (e.g., 10px = 1rem, 14px = 1.4rem, etc.), which also improved responsiveness. This approach saved me a lot of time when working with pure HTML and CSS.
 
+I would be grateful for any kind of feedback!
 
-### What I learned
-
-I tried to be as close as possible to the original design. I set a font size of 10px on the HTML element in order to use the rem unit more easily (since 10px = 1 rem, 14px = 1.4rem, etc), thus making the page more responsive. This helped me a lot to gain time in pure HTML/CSS.
-
-
-### Continued development
-
-I want to improve my knowledge on semantic HTML / accessibility elements / writing cleaner code.
